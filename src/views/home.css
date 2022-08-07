@@ -442,12 +442,13 @@
 }
 .home-heading02 {
   color: var(--dl-color-gray-black);
-  width: 402px;
-  height: 168px;
+  width: 489px;
+  height: 146px;
   align-self: flex-start;
-  margin-top: 90px;
   transition: 0.3s;
-  margin-left: 20;
+}
+.home-heading02:hover {
+  align-content: center;
 }
 .home-navlink2 {
   display: contents;
@@ -1173,7 +1174,7 @@
     margin-top: -150px;
   }
   .home-heading02 {
-    margin-top: 19px;
+    width: 363px;
   }
   .home-heading03 {
     top: 100px;

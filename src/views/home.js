@@ -215,7 +215,11 @@ const Home = (props) => {
                   />
                 </span>
               </h1>
-              <h1 className="home-heading02 body1"></h1>
+              <h1 className="home-heading02 body1">
+                This ain&apos;t your everyday Car Next Door car rental fleet. We
+                specialise in hosting great quality vehicles. Vehicle prices are
+                from approximately $20/day + 45c/km.
+              </h1>
               <Link to="/vehicles" className="home-navlink2">
                 <PrimaryButton
                   button="Vehicle Gallery"
