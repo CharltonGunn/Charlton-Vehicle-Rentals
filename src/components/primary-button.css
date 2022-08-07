@@ -1,0 +1,493 @@
+.primary-button-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.primary-button-button {
+  color: var(--dl-color-gray-white);
+  align-self: center;
+  transition: 0.3s;
+  padding-top: 12px;
+  border-width: 0px;
+  padding-left: 32px;
+  border-radius: var(--dl-radius-radius-radius6);
+  padding-right: 32px;
+  padding-bottom: 12px;
+  background-color: var(--dl-color-turquoise-color);
+}
+.primary-button-button:hover {
+  background-color: var(--dl-color-purple-900);
+}
+.primary-button-button:active {
+  background-color: var(--dl-color-purple-1000);
+}
+.primary-button-root-class-name {
+  top: 32px;
+  flex: 1;
+  right: 0px;
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name1 {
+  top: 572px;
+  flex: 1;
+  left: 159px;
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name2 {
+  top: 32px;
+  flex: 1;
+  right: 0px;
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name3 {
+  top: 572px;
+  flex: 1;
+  left: 159px;
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name4 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -34px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: flex-end;
+  margin-bottom: 1450px;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name5 {
+  flex: 100;
+  right: 220px;
+  width: auto;
+  bottom: -37px;
+  height: var(--dl-size-size-doubleunit);
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name6 {
+  top: 877px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name7 {
+  top: 1158px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name8 {
+  top: 1472px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name9 {
+  top: 1763px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name10 {
+  top: 2322px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name11 {
+  top: 2031px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name12 {
+  top: 2650px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name13 {
+  top: 3295px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name14 {
+  top: 3854px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name15 {
+  top: 2971px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name16 {
+  top: 3576px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name17 {
+  top: 4105px;
+  flex: 0;
+  left: 605px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name18 {
+  flex: 100;
+  left: 145px;
+  width: auto;
+  bottom: -55px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: 50px;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name19 {
+  flex: 0;
+  left: 605px;
+  width: auto;
+  bottom: 367px;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name20 {
+  flex: 0;
+  left: 605px;
+  width: auto;
+  bottom: 646px;
+  height: var(--dl-size-size-doubleunit);
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name21 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -361px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name22 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -411px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name23 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -461px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name24 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -511px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name25 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -561px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name26 {
+  top: var(--dl-space-space-unit);
+  flex: 100;
+  left: 164px;
+  width: auto;
+  bottom: 0px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name27 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -661px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name28 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -711px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name29 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -761px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name30 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -811px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name31 {
+  flex: 100;
+  left: 136px;
+  width: auto;
+  bottom: -349px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name32 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -911px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name33 {
+  flex: 100;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  bottom: -961px;
+  height: var(--dl-size-size-doubleunit);
+  position: static;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  background-color: #56c8e6;
+}
+.primary-button-root-class-name34 {
+  top: -47px;
+  flex: 100;
+  right: -623px;
+  width: auto;
+  height: var(--dl-size-size-doubleunit);
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  background-color: #56c8e6;
+}
+@media(max-width: 479px) {
+  .primary-button-root-class-name5 {
+    top: 0px;
+    right: 200px;
+    bottom: -350px;
+    position: absolute;
+    margin-top: auto;
+    margin-left: var(--dl-space-space-tripleunit);
+    margin-right: auto;
+    margin-bottom: auto;
+  }
+  .primary-button-root-class-name6 {
+    top: 4800px;
+    left: 180px;
+    bottom: 732px;
+    position: absolute;
+  }
+  .primary-button-root-class-name7 {
+    top: 2491px;
+    left: 192px;
+    position: absolute;
+  }
+  .primary-button-root-class-name8 {
+    top: 1310px;
+    left: 206px;
+    position: absolute;
+  }
+  .primary-button-root-class-name9 {
+    top: 3153px;
+    left: 185px;
+    position: absolute;
+  }
+  .primary-button-root-class-name10 {
+    top: 3753px;
+    left: 183px;
+    position: absolute;
+  }
+  .primary-button-root-class-name11 {
+    top: 1895px;
+    left: 197px;
+    position: absolute;
+  }
+  .primary-button-root-class-name12 {
+    top: 1054px;
+    left: 207px;
+    position: absolute;
+  }
+  .primary-button-root-class-name13 {
+    top: 1615px;
+    left: 204px;
+    position: absolute;
+  }
+  .primary-button-root-class-name14 {
+    top: 2175px;
+    left: 196px;
+    position: absolute;
+  }
+  .primary-button-root-class-name15 {
+    top: 2836px;
+    left: 186px;
+    position: absolute;
+  }
+  .primary-button-root-class-name16 {
+    top: 3467px;
+    left: 185px;
+    position: absolute;
+  }
+  .primary-button-root-class-name17 {
+    top: 4021px;
+    left: 192px;
+    position: absolute;
+  }
+  .primary-button-root-class-name19 {
+    top: 4273px;
+    left: 193px;
+    position: absolute;
+  }
+  .primary-button-root-class-name20 {
+    left: 177px;
+    bottom: 470px;
+    position: absolute;
+  }
+  .primary-button-root-class-name34 {
+    top: 0px;
+    right: 200px;
+    bottom: -350px;
+    position: absolute;
+    margin-top: auto;
+    margin-left: var(--dl-space-space-tripleunit);
+    margin-right: auto;
+    margin-bottom: auto;
+  }
+}
